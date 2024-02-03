@@ -1,5 +1,6 @@
 # 💫 About Me:
 👋 Hi there! I'm Fardin Ahsan Shafi, a final-year undergraduate who loves coding. I am passionate about  mobile app development, web development, and diving into the exciting world of machine learning/AI.<br><br>💡 I specialize in problem-solving, pattern recognition, and strategic planning skills, seamlessly integrating them into my projects where necessary.<br><br>🌐 Committed to staying at the forefront of trends, I excel in translating abstract concepts into practical solutions fast, whether optimizing ML algorithms  or architecting robust software systems.<br><br>🎨 Beyond coding, I bring a creative touch with Adobe tools, enhancing the user experience with visually compelling designs for websites and applications.<br><br>🌱 Eager to learn and embrace new challenges, my journey extends beyond academic confines, fueling a dedication to continuous improvement and adaptability in the ever-evolving field of programming and machine learning/Ai.
+Get in touch with me through: fardin467@gmail.com
 
 
 ## 🌐 Socials:
